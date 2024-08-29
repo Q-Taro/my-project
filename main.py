@@ -2,6 +2,10 @@
 
 from utils import add, multiply, average
 
+
+def sub (a,b):
+    return a- b
+
 def main():
     # 数値を定義
     num1 = 10
