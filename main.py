@@ -21,10 +21,12 @@ def main():
     numbers = [1, 2, 3, 4, 5]
     avg_result = average(numbers)
     print(f"The average of {numbers} is {avg_result}")
+    print("Hello,world")
 
 if __name__ == "__main__":
     main()
 
+# pull request
 # test of update
 # end of script
 
