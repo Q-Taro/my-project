@@ -2,7 +2,6 @@
 
 from utils import add, multiply, average
 
-
 def sub (a,b):
     return a- b
 
@@ -26,7 +25,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
+# test of update
 # end of script
 

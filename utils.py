@@ -11,3 +11,5 @@ def multiply(a, b):
 def average(numbers):
     """数値のリストの平均を計算する関数"""
     return sum(numbers) / len(numbers)
+
+# end of script
