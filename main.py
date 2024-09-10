@@ -9,7 +9,7 @@ def main():
     # 数値を定義
     num1 = 10
     num2 = 20
-
+    num2 = num2 + num1
     # 加算と乗算の結果を表示
     sum_result = add(num1, num2)
     print(f"{num1} + {num2} = {sum_result}")
