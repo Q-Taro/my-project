@@ -5,7 +5,7 @@ from utils import add, multiply, average
 def sub (a,b):
     return a- b
 
-
+# main コメント
 def main():
     # 数値を定義
     num1 = 10
@@ -27,8 +27,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-# pull request 試験
-# pull request
-# test of update
 # end of script
-
