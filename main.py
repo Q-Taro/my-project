@@ -27,4 +27,5 @@ def main():
 if __name__ == "__main__":
     main()
 
+# 編集した行
 # end of script
